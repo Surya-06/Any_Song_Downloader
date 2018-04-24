@@ -18,6 +18,5 @@ To install the requirements in linux (Ubuntu) :
 Working model:
   This script first searches for the file using youtube search and downloads the first video which matches the search criteria. 
   The download is handled using the youtube-dl package. The conversion of the downloaded video using mplayer and lame packages.
-  The video and the mp3 file can be found in the current working directory. The video of the hightest quality is downloaded and the  
-  audio file is converted in 320 kbps bitrate.
+  The video and the mp3 file can be found in the current working directory. The video of the hightest quality is downloaded and the audio file is converted in 320 kbps bitrate.
   
